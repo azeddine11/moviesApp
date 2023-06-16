@@ -10,7 +10,7 @@ function Footer() {
     </div>
 
     <p class="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
-    AeddineMovies is a Free Movies Website with zero ads, watch movies online without having to register or paying, with the latest and best movies and TV-Series.
+    MoviesAtt is a Free Movies Website with zero ads, watch movies online without having to register or paying, with the latest and best movies and TV-Series.
     </p>
 
     <nav aria-label="Footer Nav" class="mt-12">
