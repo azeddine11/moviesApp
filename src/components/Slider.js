@@ -7,9 +7,7 @@ function Slider() {
 
     
         <Splide aria-label="My Favorite Images" options={{ autoplay: true,interval: 3000, rewind: true, }}>
-            <SplideSlide>
-                <img className='carouselimages' src="https://arotimes.com/wp-content/uploads/2023/02/Most-Expensive-Movies-Ever-Made.png?x39731" alt="Image 1"/>
-            </SplideSlide>
+      
             <SplideSlide>
                 <img className='carouselimages' src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/new-years-movies-1576786807.jpg" alt="Image 1"/>
             </SplideSlide>
